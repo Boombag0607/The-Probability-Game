@@ -1,4 +1,4 @@
-<center><h1> Game: Check yourself if probability exists </h1></center><br>
+<center><h1> Game: Check yourself if probability exists </h1></center>
 <center><h2> (Is probability that probable?)(IPTP) </h2></center>
 
 --------------------------------------------------
