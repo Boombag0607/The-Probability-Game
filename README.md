@@ -1,6 +1,5 @@
-##Game: Check yourself if probability
-exists <br>
-(Is probability that probable?)(IPTP) <br>
+<center><h1> Game: Check yourself if probability exists </h1></center><br>
+<center><h2> (Is probability that probable?)(IPTP) </h2></center>
 
 --------------------------------------------------
 
@@ -17,13 +16,14 @@ exists <br>
         <li> One player (when his/her turn comes) picks any number of
         cards from the deck. This player is referred to as the 
         'speaker'. </li>
-        <li> Without showing cards to anybody else, he/she says two <br>
-        vague statements (probabilities of which can be easily <br>
-        found out), one of the two statements is true which only <br>
+        <li> Without showing cards to anybody else, he/she says two
+        vague statements (probabilities of which can be easily
+        found out), one of the two statements is true which only
         the speaker knows. </li>
         <li> Now the probability of the two statements is to be found <br>
         out by the other players. </li>
         <li> The statement with higher probability is then announced to
         the speaker by the other players. </li>
         <li> If the statement with higher probability is correct then point on score board must be given to probability and vice versa. </li>
-        <li> This process must be repeated maximum possible number of times to check if probability actually exists.</li></ol></ul>
+        <li> This process must be repeated maximum possible number of times to check if probability actually exists.</li></ol>
+</ul>
