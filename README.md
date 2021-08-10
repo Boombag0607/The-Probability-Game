@@ -4,7 +4,7 @@ exists
 • Required:
     1. 2 or more players
     2. Deck of 52 cards
-    3. Score board of probability (notebook, duh!)
+    3. Score board of probability
 • How to Play:
     1. One player (when his/her turn comes) picks any number of
         cards from the deck. This player is referred to as the
