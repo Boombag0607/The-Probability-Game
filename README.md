@@ -9,7 +9,9 @@
     2. Deck of 52 cards <br>
     3. Score board of probability <br>
 </ul>
+
 ---------------------------------------------------
+
 <ul>
 <strong><li> How to Play: </li></strong><br>
     <ol>
