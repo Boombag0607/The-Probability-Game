@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import ProbScore from './score/score' ;
+import {ProbScore, UserScore} from './score/score' ;
 
 
 function App() {
   return (
     <div className="App">
-      <ProbScore/>
+      <ProbScore input = {true}/>
+      <UserScore input = {false}/>
     </div>
   );
 }
