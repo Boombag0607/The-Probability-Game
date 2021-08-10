@@ -8,9 +8,9 @@
     1. 2 or more players <br>
     2. Deck of 52 cards <br>
     3. Score board of probability <br>
-
+</ul>
 ---------------------------------------------------
-
+<ul>
 <strong><li> How to Play: </li></strong><br>
     <ol>
         <li> One player (when his/her turn comes) picks any number of
