@@ -22,7 +22,7 @@
         vague statements (probabilities of which can be easily
         found out), one of the two statements is true which only
         the speaker knows. </li>
-        <li> Now the probability of the two statements is to be found <br>
+        <li> Now the probability of the two statements is to be found
         out by the other players. </li>
         <li> The statement with higher probability is then announced to
         the speaker by the other players. </li>
