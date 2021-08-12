@@ -29,3 +29,7 @@
         <li> If the statement with higher probability is correct then point on score board must be given to probability and vice versa. </li>
         <li> This process must be repeated maximum possible number of times to check if probability actually exists.</li></ol>
 </ul>
+
+------------------------------------------------------
+
+
