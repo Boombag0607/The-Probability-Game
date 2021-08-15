@@ -8,13 +8,10 @@ function anyCase(str, checkStr) {
     return false;
 }
 export default class ChooseCard extends React.Component{
-    constructor(props){
-        super(props);
-        this.state = {
-            color: '', 
-            type: ''
-        }
-    }
+    state = {
+        color: '', 
+        type: ''
+    }  
     handleClickRed = () => {
         this.setState ({
             color: 'red'

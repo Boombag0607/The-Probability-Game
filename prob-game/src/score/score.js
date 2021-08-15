@@ -2,21 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 class ProbScore extends React.Component{
-    constructor(props){
-        super(props)
-        this.state = {
-            input: false,
-            score: 0
-        }
-        this.incScore = this.incScore.bind(this);
-        this.trigIncScore = this.trigIncScore.bind(this);
+    state = {
+        input: false,
+        score: 0
     }
-    incScore() {
+    incScore = () => {
         this.setState(state => ({
             score: state.score + 1
         }));
     }
-    trigIncScore() {
+    trigIncScore = () => {
         if(this.state.input === true) {
             this.incScore();    
         }   
@@ -31,21 +26,16 @@ class ProbScore extends React.Component{
 }
 
 class UserScore extends React.Component{
-    constructor(props){
-        super(props)
-        this.state = {
-            input: false,
-            score: 0
-        }
-        this.incScore = this.incScore.bind(this);
-        this.trigIncScore = this.trigIncScore.bind(this);
+    state = {
+        input: false,
+        score: 0
     }
-    incScore() {
+    incScore = ()  => {
         this.setState(state => ({
             score: state.score + 1
         }));
     }
-    decScore() {
+    decScore = () => {
         this.setState(state => ({
             score: state.score - 1
         }));
